@@ -37,7 +37,7 @@ Futuramente, o sistema poderá evoluir para:
 
 - Java
 - Scanner 
-- ArrayList
+- Arrays
 - LocalDateTime
 
 ---
